@@ -1,5 +1,5 @@
 // ==WindhawkMod==
-// @id              nvidia-cp-missing-dialog-hider
+// @id              nvidia-control-panel-missing-dialog-hider
 // @name            Hide NVIDIA Control Panel Missing Dialog
 // @description     Hides the nvcontainer.exe popup that says NVIDIA Control Panel is not found
 // @version         1.0.0
