@@ -32,4 +32,4 @@ On mod initialization, any already-visible instance of the dialog is also hidden
 
 ## Compatibility
 - Windows 10 and Windows 11
-- Targets `nvcontainer.exe` only
+- Targets `nvcontainer.exe` and `NVDisplay.Container.exe` only
